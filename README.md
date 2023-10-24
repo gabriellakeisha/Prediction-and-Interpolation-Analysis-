@@ -5,6 +5,7 @@ y = mx + c, where m is the slope and c is the vertical intercept.
 
 Algorithm
 To find the line of best fit for a group of (x,y) points:
+
 Step 1: For each (x,y) calculate x2 and xy
 
 Step 2: Sum all x, y, x2 and xy which gives ∑x, ∑y, ∑x2 and ∑xy (∑ means “sum up”)
